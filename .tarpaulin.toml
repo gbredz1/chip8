@@ -1,0 +1,4 @@
+[default]
+[report]
+out = ["Lcov"]
+output-dir = "target/tarpaulin"

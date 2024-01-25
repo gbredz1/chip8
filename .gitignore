@@ -1,0 +1,6 @@
+/target
+config.yml
+lcov.info
+.vscode/
+.env
+/roms

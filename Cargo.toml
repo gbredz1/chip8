@@ -1,0 +1,2 @@
+[workspace]
+members = ["chip8", "chip8-sdl2", "chip8-gtk"]

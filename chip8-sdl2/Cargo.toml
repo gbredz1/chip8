@@ -1,0 +1,16 @@
+[package]
+name = "chip8-sdl2"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chip8 = {path = "../chip8"}
+dotenv = "0.15"
+log = "0.4"
+env_logger = "0.9"
+sdl2 = "0.35"
+
+[[bin]]
+name = "chip8-sdl2"
